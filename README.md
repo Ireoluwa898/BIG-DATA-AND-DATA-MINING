@@ -1,6 +1,7 @@
 # BIG-DATA-AND-DATA-MINING
 ROAD TRAFFIC ACCIDENTS
-Context.
+Context:
+
 This task is based on real world data: specifically, road traffic accidents in 2020. 
 
 Project Background Information.
@@ -9,7 +10,9 @@ with (probably) a majority of other non-fatal road traffic accidents. Every year
 releases a large batch of data associated with these reports. In this assignment we will be using the data
 from 2020.
 
-Data: accident_data_v1.0.0_2023.db: Download accident_data_v1.0.0_2023.db: a sqlite database containing the accident data. 
+Data: https://canvas.hull.ac.uk/courses/66553/files/4632946/download?download_frd=1
+
+
 
 The Task.
 Imagine that you are a data scientist confronted with this data (this is not far from the truth!). Your task
