@@ -1,6 +1,6 @@
 # BIG-DATA-AND-DATA-MINING
 ROAD TRAFFIC ACCIDENTS
-Context:
+
 
 This task is based on real world data: specifically, road traffic accidents in 2020. 
 
